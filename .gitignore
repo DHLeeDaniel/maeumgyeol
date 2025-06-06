@@ -1,0 +1,29 @@
+# ▶ Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# ▶ Environment
+.env
+
+# ▶ Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# ▶ Firebase / API Key Files
+maeumgyeol-refactored/config/serviceAccountKey.json
+
+# ▶ Streamlit cache
+.streamlit/
+
+# .gitignore 
+__pycache__/
+*.pyc
+.env
+config/firebase_config.json
+.vscode/
+.DS_Store
+venv/
