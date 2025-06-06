@@ -27,3 +27,13 @@ config/firebase_config.json
 .vscode/
 .DS_Store
 venv/
+
+# Ignore all files by default
+*
+
+# Allow folder structure and README
+!*/
+!README.md
+!LICENSE
+!.gitignore
+
