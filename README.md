@@ -15,7 +15,7 @@ Ma-eumgyeol is part of a human-centered AI architecture designed by **DongHun Le
   루프 기반 모듈형 UX 시스템으로, 감각 회복과 보조 AI 설계를 지원합니다.
 - 🛠️ Status | 진행 상태: MVP in progress (as of June 2025)  
   2025년 6월 현재, MVP 개발 중입니다.
-
+- 상세 UI 이미지 : https://www.notion.so/Ma-eum-Gyeol-UI-20a05969a35980229a7bd8dbf3e4323a?source=copy_link 
 ---
 
 ## 🔒 Source Code Access | 소스코드 접근
