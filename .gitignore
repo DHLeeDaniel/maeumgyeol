@@ -15,25 +15,19 @@ __pycache__/
 
 # ▶ Firebase / API Key Files
 maeumgyeol-refactored/config/serviceAccountKey.json
+config/firebase_config.json
 
 # ▶ Streamlit cache
 .streamlit/
 
-# .gitignore 
-__pycache__/
-*.pyc
-.env
-config/firebase_config.json
-.vscode/
-.DS_Store
+# ▶ Virtual environments
 venv/
 
-# Ignore all files by default
+# ▶ Ignore all files by default (only expose folder names & README)
 *
-
-# Allow folder structure and README
 !*/
 !README.md
 !LICENSE
 !.gitignore
+
 
