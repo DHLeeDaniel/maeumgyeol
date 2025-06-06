@@ -29,6 +29,7 @@ If you're interested in collaboration, demo access, or partnership:
 📩 **문의: magnanimity2023@gmail.com**
 
 ---
+“Published a formal ethical & legal policy framework for AI emotion-aware systems, covering sensitive data, psychological boundaries, and AI autonomy across Korea and U.S. legal contexts.”
 
 © 2025 DongHun Lee. All rights reserved.
 
